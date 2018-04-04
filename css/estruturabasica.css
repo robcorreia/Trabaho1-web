@@ -1,0 +1,58 @@
+@CHARSET "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Lato|Nanum+Brush+Script');
+*{
+    box-sizing: border-box! important;;
+}
+body{
+    font-family:"IBM Plex Mono";
+    margin: 0;
+
+}
+h1{
+    font-family: "Nanum Brush Script";
+}
+
+h2{
+
+}
+.cabecalho{
+    overflow:hidden; /*esconde scroll e permite que o background color preenche toda a div */
+    background: #CD3333;
+    color: white;
+    text-align: center;
+}
+
+.menu-principal{
+    background-color: #CD8162;
+;
+    text-align: center;
+    font-family:Lato;
+}
+
+.menu-principal a{
+    color: white;
+    padding: 14px 16px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.menu-principal a:hover{
+    background-color:#FFA07A;
+    color: white;
+}
+.conteudo{
+    background-color: white;
+    padding: 10px;
+    height: 500px;
+}
+
+.rodape{
+    background-color: #f1f1f1;
+    padding: 10px;
+    height: 35px;
+    text-align: center;
+}
+
+
+
+
