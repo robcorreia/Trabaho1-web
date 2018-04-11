@@ -1,0 +1,163 @@
+@CHARSET "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Lato|Nanum+Brush+Script');
+
+
+html, body, div,h2,p, blockquote, img, ins, kbd, q, s, samp,ol, ul, li,
+fieldset, form, label{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline;
+}
+body{
+    font-family:"IBM Plex Mono";
+    margin: 0;
+
+}
+h1{
+    font-family: "Nanum Brush Script";
+}
+
+.login{
+    text-align: right;
+    padding: 90px 10px 10px 0;
+
+}
+button{
+    font-family: "IBM Plex Mono";
+    background: white;
+    border-radius: 4px;
+    color: #B22222;
+}
+
+.main{
+    background: #f1f1f1;
+    width: 100%;
+    border-radius: 10px;
+    height: 500px;
+    margin: auto;
+}
+
+.rodape{
+    padding: 10px;
+    height: 35px;
+    text-align: center;
+}
+.iconIG{
+    text-align: right;
+    width: 40px;
+    text-decoration: none;
+}
+.iconTWT{
+    padding-top: 20px;
+    width: 40px;
+}
+.iconFB{
+    width: 40px;
+}
+
+.alinha-icons{
+    padding-right: 5px;
+    text-align: right;
+}
+
+a{
+    text-decoration: none;
+}
+.nome{
+    font-size: 60px;
+    float: left;
+    margin-left: 350px;
+    height: 80px;
+    margin-top: 60px;
+}
+.logo{
+    float: left;
+    width: 180px;
+}
+
+/---------------------------------------------------------------/
+
+.h1Center{
+    text-align: center;
+}
+
+.produto1{
+    width: 350px;
+    padding: 120px;
+    height: 120px;
+    float: left;
+    background: pink;
+    margin-left: 80px;
+}
+
+.produto2{
+    width: 350px;
+    padding: 120px;
+    height: 120px;
+    float: left;
+    background: pink;
+    margin-left: 40px;
+}
+
+.produto3{
+    width: 350px;
+    padding: 120px;
+    height: 120px;
+    float: left;
+    background: pink;
+    margin-left: 40px;
+}
+#prod1{
+
+    height: 120px;
+
+
+}
+.figure1{
+    width: 350px;
+    height: 240px;
+    float: left;
+    margin-left: 40px;
+}
+
+.figure2{
+    width: 350px;
+    height: 240px;
+    float: left;
+    margin-left: 40px;
+}
+.figure3{
+    width: 350px;
+    height: 100%;
+    float: left;
+    margin-left: 40px;
+}
+.figure3:hover{
+}
+span{
+    font-size: 20px;
+    font-family: "David CLM";
+    color: red;
+}
+p{
+    text-align: center;
+}
+
+
+button{
+    padding: 8px;
+    color: firebrick;
+    border-radius: 5px;
+
+}
+button:hover{
+    color: #f14415;
+    padding: 12px;
+}
+

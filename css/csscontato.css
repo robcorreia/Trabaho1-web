@@ -1,0 +1,222 @@
+@CHARSET "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Lato|Nanum+Brush+Script');
+
+* {
+    box-sizing: border-box ! important;
+
+}
+
+body {
+    font-family: "IBM Plex Mono";
+    margin: 0;
+    text-align: justify;
+    background: #f1f1f1 !important;
+    text-justify: inter-word;
+
+}
+
+h1 {
+    padding-bottom: 20px;
+    font-family: "Nanum Brush Script" !important;
+    font-size: 50px !important;
+}
+
+h2 {
+
+}
+
+.main {
+    padding: 10px;
+    height: 120%;
+    background: #f1f1f1;
+}
+
+
+
+.iconIG {
+    text-align: right;
+    width: 40px;
+    text-decoration: none;
+}
+
+.iconTWT {
+    padding-top: 20px;
+    width: 40px;
+}
+
+.iconFB {
+    width: 40px;
+}
+
+.alinha-icons {
+    padding-right: 5px;
+    text-align: right;
+}
+
+a {
+    text-decoration: none;
+}
+
+.nome {
+    font-size: 60px;
+    float: left;
+    margin-left: 350px;
+    height: 80px;
+    margin-top: 60px;
+}
+
+.logo {
+    float: left;
+    width: 180px;
+}
+
+.login {
+    text-align: right;
+    padding: 90px 10px 10px 0;
+}
+
+/---------------------------------------------------------------/
+.h1Center {
+    text-align: center;
+}
+
+.produto1 {
+    width: 350px;
+    padding: 120px;
+    height: 120px;
+    float: left;
+    background: pink;
+    margin-left: 80px;
+}
+
+.produto2 {
+    width: 350px;
+    padding: 120px;
+    height: 120px;
+    float: left;
+    background: pink;
+    margin-left: 40px;
+}
+
+.produto3 {
+    width: 350px;
+    padding: 120px;
+    height: 120px;
+    float: left;
+    background: pink;
+    margin-left: 40px;
+}
+
+#prod1 {
+
+    height: 120px;
+
+}
+
+.figure1 {
+    width: 350px;
+    height: 240px;
+    float: left;
+    margin-left: 40px;
+}
+
+.figure2 {
+    width: 350px;
+    height: 240px;
+    float: left;
+    margin-left: 40px;
+}
+
+.figure3 {
+    width: 350px;
+    height: 240px;
+    float: left;
+    margin-left: 40px;
+}
+span {
+    font-size: 20px;
+    font-family: "David CLM";
+    color: red;
+}
+
+
+
+.with {
+    width: 500px;
+}
+
+.form {
+    width: 400px !important;
+    height: 300px;
+    float: right;
+}
+
+.p {
+    float: left;
+    width: 65%;
+    padding: 10px;
+    padding: 8px;
+    height: 40%;
+    font-size: 16px;
+}
+
+.sobre2 {
+    font-size: 25px;
+    text-align: center;
+}
+
+.mais {
+    width: 100px;
+    margin-top: 70px;
+    text-align: center;
+    float: left !important;
+    float: left;
+}
+
+.sobre1 {
+    font-size: 25px;
+    margin-left: 200px;
+    margin-right: 930px;
+}
+
+.sobre3 {
+    font-size: 25px;
+    margin-left: 730px;
+}
+
+.menu-principal {
+    float: right;
+    width: 100%;
+    margin-top: 14px;
+}
+
+.comentarios {
+    float: right;
+    width: 400px;
+}
+
+.tr {
+    width: 500px;
+    text-align: justify;
+}
+
+.formulario{
+    width: 500px;
+    height: 400%;
+    float: right;
+    margin-right: 10px;
+}
+
+
+.final{
+    width: 800px;
+    font-size: 16px;
+    float: left;
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 10px;
+}
+.final h3{
+    font-size: 20px;
+    font-family: "Arial Black";
+}

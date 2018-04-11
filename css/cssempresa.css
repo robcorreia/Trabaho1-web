@@ -1,0 +1,159 @@
+@CHARSET "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Lato|Nanum+Brush+Script');
+*{
+    box-sizing: border-box! important;;
+}
+body{
+    font-family:"IBM Plex Mono";
+    margin: 0;
+
+}
+h1{
+    font-family: "Nanum Brush Script";
+}
+
+.login{
+    text-align: right;
+    padding: 90px 10px 10px 0;
+
+}
+button{
+    font-family: "IBM Plex Mono";
+    background: white;
+    border-radius: 4px;
+    color: #B22222;
+}
+
+p{
+	padding-left: 20px;
+}
+li{
+	padding-left: 20px;
+}
+.main {
+    padding: 10px;
+    height: 120%;
+    background: #f1f1f1;
+}
+
+
+
+.rodape{
+    background-color: #f1f1f1;
+    padding: 10px;
+
+    height: 45px;
+    text-align: center;
+}
+.iconIG{
+    text-align: right;
+    width: 40px;
+    text-decoration: none;
+}
+.iconTWT{
+    padding-top: 20px;
+    width: 40px;
+}
+.iconFB{
+    width: 40px;
+}
+
+.alinha-icons{
+    padding-right: 5px;
+    text-align: right;
+}
+
+a{
+    text-decoration: none;
+}
+.nome{
+    font-size: 60px;
+    float: left;
+    margin-left: 350px;
+    height: 80px;
+    margin-top: 60px;
+}
+.logo{
+    float: left;
+    width: 180px;
+}
+
+/---------------------------------------------------------------/
+
+.h1Center{
+    text-align: center;
+}
+
+.produto1{
+    width: 350px;
+    padding: 120px;
+    height: 120px;
+    float: left;
+    background: pink;
+    margin-left: 80px;
+}
+
+.produto2{
+    width: 350px;
+    padding: 120px;
+    height: 120px;
+    float: left;
+    background: pink;
+    margin-left: 40px;
+}
+
+.produto3{
+    width: 350px;
+    padding: 120px;
+    height: 120px;
+    float: left;
+    background: pink;
+    margin-left: 40px;
+}
+#prod1{
+
+    height: 120px;
+
+
+}
+.figure1{
+    width: 350px;
+    height: 240px;
+    float: left;
+    margin-left: 40px;
+}
+
+.figure2{
+    width: 350px;
+    height: 240px;
+    float: left;
+    margin-left: 40px;
+}
+
+.figure3{
+    width: 350px;
+    height: 240px;
+    float: left;
+    margin-left: 40px;
+}
+
+p{
+    color: white;
+    border-radius: 20px;
+    font-size: 20px !important;
+}
+h2{
+    font-size: 20px;
+}
+li{
+    color: #f1f1f1;
+}
+
+.image{
+    width: 1250px;
+    height: 530px;
+    float: left;
+}
+.menu-principal{
+    margin-top: 15px;
+}

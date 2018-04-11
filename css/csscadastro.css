@@ -1,0 +1,173 @@
+@CHARSET "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Lato|Nanum+Brush+Script');
+*{
+    box-sizing: border-box! important;;
+}
+body{
+    font-family:"IBM Plex Mono";
+    margin: 0;
+
+}
+h1{
+     padding-bottom: 20px;
+    font-family: "Nanum Brush Script"!important;
+    font-size: 50px !important;
+}
+
+h2{
+
+}
+.cabecalho{
+    overflow:hidden; /*esconde scroll e permite que o background color preenche toda a div */
+    background: #CD3333;
+    color: white;
+    text-align: center;
+
+}
+
+.menu-principal{
+    background-color: #CD8162;
+    text-align: center;
+    font-family:Lato;
+}
+
+.menu-principal a{
+    color: white;
+    padding: 14px 16px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.menu-principal a:hover{
+    background-color:#FFA07A;
+    color: black;
+}
+.main{
+    background-color: white;
+    padding: 10px;
+    height: 550px;
+
+}
+
+.rodape{
+    background-color: #f1f1f1;
+    padding: 10px;
+    height: 35px;
+    text-align: center;
+}
+.iconIG{
+    text-align: right;
+    width: 40px;
+    text-decoration: none;
+}
+.iconTWT{
+    padding-top: 20px;
+    width: 40px;
+}
+.iconFB{
+    width: 40px;
+}
+
+.alinha-icons{
+    padding-right: 5px;
+    text-align: right;
+}
+
+a{
+    text-decoration: none;
+}
+.nome{
+    font-size: 60px;
+    float: left;
+    margin-left: 350px;
+    height: 80px;
+    margin-top: 60px;
+}
+.logo{
+    float: left;
+    width: 180px;
+}
+
+/---------------------------------------------------------------/
+
+.h1Center{
+    text-align: center;
+}
+
+.produto1{
+    width: 350px;
+    padding: 120px;
+    height: 120px;
+    float: left;
+    background: pink;
+    margin-left: 80px;
+}
+
+.produto2{
+    width: 350px;
+    padding: 120px;
+    height: 120px;
+    float: left;
+    background: pink;
+    margin-left: 40px;
+}
+
+.produto3{
+    width: 350px;
+    padding: 120px;
+    height: 120px;
+    float: left;
+    background: pink;
+    margin-left: 40px;
+}
+#prod1{
+
+    height: 120px;
+
+
+}
+.figure1{
+    width: 350px;
+    height: 240px;
+    float: left;
+    margin-left: 40px;
+}
+
+.figure2{
+    width: 350px;
+    height: 240px;
+    float: left;
+    margin-left: 40px;
+}
+
+.figure3{
+    width: 350px;
+    height: 240px;
+    float: left;
+    margin-left: 40px;
+}
+
+.menu-parceiros{
+    height: 100px;
+    background-color: #CD8162;
+    text-align: center;
+    font-family:Lato;
+}
+
+.menu-parceiros a{
+    color: white;
+    padding: 14px 16px;
+    display: inline-block;
+    text-decoration: none;
+}
+.menu-parceiros a:hover{
+    background-color:#FFA07A;
+    color: black;
+}
+#parceiros{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    font-family:"IBM Plex Mono";
+
+}
