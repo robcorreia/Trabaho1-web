@@ -12,7 +12,7 @@ body{
 
 }
 h1{
-    font-family: "Nanum Brush Script";
+    font-family: "Nanum Brush Script"!important;
 }
 .login{
     text-align: right;
@@ -77,10 +77,10 @@ a{
 }
 
 .figure3{
-    width: 350px;
+    width: 330px;
     height: 100%;
     float: left;
-    margin-left: 40px;
+    margin-left: 70px;
 }
 .figure3:hover{
 }
