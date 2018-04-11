@@ -1,0 +1,58 @@
+
+.cabecalho {
+    overflow: hidden; /*esconde scroll e permite que o background color preenche toda a div */
+    background: #007b5e;
+    color: white;
+    height: 270px !important;
+    text-align: center;
+
+}
+
+.menu-principal {
+    background-color: #007b5e;
+    font-family: Lato;
+    height: 80px;
+    text-align: center;
+}
+
+.menu-principal a {
+    color: white;
+    padding: 23px;
+    display: inline-block !important;
+    text-decoration: none;
+}
+
+.menu-principal ul li {
+    margin-left: 5px;
+    padding: 10px;
+    border: 1px solid #f1b56f;
+    display: inline;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.menu-principal li:hover {
+    background: #4f7b27;
+    font-size: 18px;
+    padding: 14px;
+    border-radius: 10px;
+}
+
+.menu-principal a:hover {
+    color: #fff !important;
+    text-decoration: none;
+}
+
+ul li {
+    text-decoration: none;
+    list-style-type: none;
+    list-style: none;
+}
+
+img{
+    border-radius: 10px;
+}
+.img:hover{
+    width: 355px;
+    height: 260px;
+}
