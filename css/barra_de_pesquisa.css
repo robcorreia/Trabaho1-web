@@ -1,0 +1,26 @@
+#divBusca{
+    float: right;
+    border:solid 1px;
+    background: white;
+    border-radius:15px;
+    width:260px;
+    margin-right: 10px !important;
+    margin-top: 10px;
+}
+
+#txtBusca{
+    margin-left: 10px;
+    font-size:18px;
+    border:none;
+    height:40px;
+    width:200px;
+}
+
+#button{
+    float: right !important;
+    margin-top: 10px;
+    margin-right: 10px;
+    background: #8a6d3b;
+    color: aliceblue !important;
+}
+
