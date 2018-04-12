@@ -4,12 +4,12 @@
     box-sizing: border-box! important;;
 }
 body{
-    font-family:"IBM Plex Mono";
-    margin: 0;
+    font-family:"IBM Plex Mono"!important;
+    margin: 0!important;
 
 }
 h1{
-    font-family: "Nanum Brush Script";
+    font-family: "Nanum Brush Script"!important;
 }
 
 .login{
@@ -18,20 +18,19 @@ h1{
 
 }
 button{
-    font-family: "IBM Plex Mono";
-    background: white;
-    border-radius: 4px;
-    color: #B22222;
+    font-family: "IBM Plex Mono"!important;
+    background: white!important;
+    border-radius: 4px!important;
 }
 
 p{
-	padding-left: 20px;
+	padding-left: 20px!important;
 }
 li{
-	padding-left: 20px;
+	padding-left: 20px!important;
 }
 .main {
-    padding: 10px;
+    padding: 10px;  
     height: 120%;
     background: #f1f1f1;
 }
@@ -93,23 +92,6 @@ a{
     margin-left: 80px;
 }
 
-.produto2{
-    width: 350px;
-    padding: 120px;
-    height: 120px;
-    float: left;
-    background: pink;
-    margin-left: 40px;
-}
-
-.produto3{
-    width: 350px;
-    padding: 120px;
-    height: 120px;
-    float: left;
-    background: pink;
-    margin-left: 40px;
-}
 #prod1{
 
     height: 120px;
@@ -138,12 +120,14 @@ a{
 }
 
 p{
+    padding-left: 40px !important;
     color: white;
     border-radius: 20px;
     font-size: 20px !important;
 }
 h2{
-    font-size: 20px;
+    font-size: 30px!important;
+    font-family: "Nanum Brush Script"!important;
 }
 li{
     color: #f1f1f1;
@@ -156,4 +140,8 @@ li{
 }
 .menu-principal{
     margin-top: 15px;
+}
+#li{
+    padding-left: 40px !important;
+    font-size: 20px !important;
 }
