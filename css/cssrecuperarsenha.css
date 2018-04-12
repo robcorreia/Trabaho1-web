@@ -15,13 +15,6 @@ h1{
 h2{
 
 }
-.cabecalho{
-    overflow:hidden; /*esconde scroll e permite que o background color preenche toda a div */
-    background: #CD3333;
-    color: white;
-    text-align: center;
-
-}
 
 .menu-principal{
     background-color: #CD8162;
@@ -131,10 +124,11 @@ a{
 }
 
 .figure2{
-    width: 350px;
+    width: 700px;
     height: 240px;
     float: left;
     margin-left: 40px;
+    margin-left: 200px;
 }
 
 .figure3{
@@ -168,4 +162,7 @@ a{
     font-size: 20px;
     font-family:"IBM Plex Mono";
 
+}
+.foot{
+    margin-top: 500px;
 }
